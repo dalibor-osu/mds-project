@@ -1,0 +1,21 @@
+.thumbnail {
+    width: 100%;
+}
+
+.player-container-thumbnail {
+    width: 100%;
+    min-width: 400px;
+}
+
+.player {
+    width: 100%;
+}
+
+.thumbnail-title {
+    display: block;
+    text-align: center;
+}
+
+.main-container {
+    margin-top: 20px;
+}
