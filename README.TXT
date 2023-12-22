@@ -1,6 +1,6 @@
 Jak spustit projekt:
 
-1. Jestliže neexistuje, vytvořte složku "tmp" a "screenshots" v mateřském adresáři.
+1. Jestliže neexistuje, vytvořte složku "temp" a "screenshots" v mateřském adresáři.
 2. Přes PowerShell spusťte NGINX.exe.
 3. Přes další PowerShell spusťte skript "stream_run_powershell.ps1"
 4. V prohlížeči otevřete "localhost"
